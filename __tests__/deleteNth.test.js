@@ -1,4 +1,4 @@
-const { deleteNth } = require('../deleteNth');
+const { deleteNth } = require('../Solutions/deleteNth');
 
 describe('deleteNth', () => {
   it('returns an array with numbers n times when passed arr of one number n times', () => {

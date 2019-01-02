@@ -1,2 +1,10 @@
 # TDD-Katas
-A range of katatas solved using full TDD
+
+# Getting set up
+
+Clone this repo & Run 
+
+npm i
+
+
+A range of katas solved using full TDD
